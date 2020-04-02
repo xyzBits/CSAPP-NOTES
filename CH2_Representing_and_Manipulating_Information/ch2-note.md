@@ -12,11 +12,11 @@ Modern computers store and process information represented as 2-valued signals. 
 
 2. Readily represented, stored, and transmitted
 
-   		> presence or absence of a hole 
-   		>
-   		> high or low voltage on a wire
-   		>
-   		> magnetic domain oriented clockwise or counterclockwise
+   - presence or absence of a hole 
+   		
+   - high or low voltage on a wire
+   		
+   - magnetic domain oriented clockwise or counterclockwise
 
 3. Storing and performing computations on 2-valued signals using electronic circuit is very simple and reliable
 
