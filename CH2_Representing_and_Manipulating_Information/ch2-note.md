@@ -32,7 +32,7 @@ Modern computers store and process information represented as 2-valued signals. 
    >
    > 3. Encodings to negative numbers and  approximate real numbers
    >
-   >    ![](D:\ubuntu\learn\course\cmu-csapp\CSAPP-NOTES\CH2_Representing_and_Manipulating_Information\image\bitpattern.PNG)
+   >    ![](.\image\bitpattern.PNG)
 
 ## 2.1 Information Storage
 
