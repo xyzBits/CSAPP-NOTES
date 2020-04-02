@@ -32,7 +32,7 @@ Modern computers store and process information represented as 2-valued signals. 
    >
    > 3. Encodings to negative numbers and  approximate real numbers
    >
-   >    ![](.\image\bitpattern.PNG)
+   >    ![](./image/bitpattern.PNG)
 
 ## 2.1 Information Storage
 
